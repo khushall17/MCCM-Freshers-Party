@@ -26,4 +26,6 @@ node_modules/
 dist/
 .env
 
-public/videos/*.mp4
+public/videos/a2.mp4
+public/videos/a3.mp4
+public/videos/a1.mp4
