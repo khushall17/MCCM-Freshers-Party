@@ -153,10 +153,12 @@ export default function Registration() {
             Mobile Number
             <input
               required
-              type="text"
+              type="tel"
               value={f.mobile}
               onChange={set("mobile")}
               placeholder="Example: 7498585373"
+              pattern="[0-9]{10}"
+              maxLength="10"
             />
           </label>
 

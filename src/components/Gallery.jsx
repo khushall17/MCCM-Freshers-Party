@@ -1,6 +1,6 @@
 // Replace these colour blocks with <img src="..." alt="..." /> from last year's event.
 const shots = [
-  ["Memories, 2025", "/videos/aa1.mp4"],
+  ["Memories,", "/videos/aa1.mp4"],
   ["Memories", "/videos/aa2.mp4"],
   ["Memories", "/videos/aa3.mp4"],
   ["Memories", "/videos/a4.mp4"],
